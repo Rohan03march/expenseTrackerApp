@@ -37,7 +37,8 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
-      ]
+      ],
+      "expo-web-browser"
     ],
     "experiments": {
       "typedRoutes": true
@@ -47,7 +48,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "16e1c23d-c619-441f-b870-88feefa53543"
+        "projectId": "c1d2be73-ad96-40aa-8e46-20727e1562fb"
       }
     }
   }
