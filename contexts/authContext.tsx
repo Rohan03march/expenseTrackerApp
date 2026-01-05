@@ -9,7 +9,7 @@ import {
 import { auth, firestore } from "@/config/firebase";
 import { doc, getDoc, setDoc } from "firebase/firestore";
 import { useRouter } from "expo-router";
-
+  
 // Create the Auth Context
 const AuthContext = createContext<AuthContextType | null>(null);
 

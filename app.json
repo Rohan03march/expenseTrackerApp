@@ -20,7 +20,10 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.rohan_03.expenseTracker"
+      "package": "com.rohan_03.expenseTracker",
+      "runtimeVersion": {
+        "policy": "appVersion"
+      }
     },
     "web": {
       "bundler": "metro",
@@ -50,6 +53,12 @@
       "eas": {
         "projectId": "d64aa0a6-f5ae-46d0-a05c-714620f113b7"
       }
+    },
+    "updates": {
+      "url": "https://u.expo.dev/d64aa0a6-f5ae-46d0-a05c-714620f113b7"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
     }
   }
 }
